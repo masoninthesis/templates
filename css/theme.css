@@ -115,13 +115,13 @@ blockquote {
   border-left: none;
 }
 .colour-white {
-  color: white !important;
+  color: #313131 !important;
 }
 .highlight {
   color: #88b7b3;
 }
 .vertical-align {
-  margin: 100px 0;
+  margin: 50px 0;
 }
 .vertical-align.no-bottom {
   margin-bottom: 0;
@@ -425,7 +425,7 @@ blockquote {
   margin-left: 0;
 }
 .cbp-af-header .nav a {
-  color: white;
+  color: #313131;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 400;
   margin: 0 0 0 20px;
@@ -1210,7 +1210,7 @@ section .login-overlay {
 #intro-video .carousel-caption-center h2 {
   font-size: 1.8em;
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.9);
+  color: #656565;
 }
 #intro .carousel-caption-center p,
 #intro-video .carousel-caption-center p {
@@ -1519,7 +1519,7 @@ section.light.with-bg {
   background-size: cover;
 }
 section.dark {
-  background: #2b2d35;
+  background: #313131;
 }
 section.dark.with-bg {
   background: url('../img/bg-content1.jpg') center center no-repeat;
@@ -2027,9 +2027,9 @@ section .overlay-text {
   color: rgba(51, 51, 51, 0.7);
 }
 footer.footer {
-  background: #2b2d35;
-  padding: 5em 0;
-  color: white;
+  background: #ffffff;
+  padding: 3em 0;
+  color: #cccccc;
 }
 footer.footer .footer-logo {
   padding: 0 1em;
@@ -2456,7 +2456,7 @@ footer.footer .icon {
     text-align: center;
   }
   .navbar-collapse {
-    background-color: rgba(44, 46, 53, 0.9);
+    background-color: #ffffff;
   }
   .navbar-collapse ul {
     width: 100%;
@@ -2468,7 +2468,7 @@ footer.footer .icon {
     line-height: 2;
   }
   .navbar-collapse {
-    background-color: rgba(44, 46, 53, 0.9);
+    background-color: background-color: #FFFFFF;
   }
   .navbar-collapse ul {
     width: 100%;
